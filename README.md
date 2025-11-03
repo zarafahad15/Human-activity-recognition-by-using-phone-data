@@ -156,6 +156,3 @@ print("Predicted activity:", labels[pred_label + 1])
 	•	Optimize for mobile deployment using TensorFlow Lite
 
 ⸻
-
-Would you like me to format this as a downloadable README.md file (for GitHub)?
-I can generate and give you the file directly.
